@@ -1,9 +1,18 @@
-# How to use $dep
+# $dep
+$dep is a small utility for importing/exporting code in a browser environment for small projects without build systems and fashionable massive frontend frameworks.
+
+## How to use $dep
 
 Clone this repo and open the example folder in your browser.
 
 ```sh
-https://github.com/Silksofthesoul/dep.git
+git clone https://github.com/Silksofthesoul/dep.git
+```
+
+or install it with npm:
+
+```sh
+npm install @silksofthesoul/dep
 ```
 
 Add the following to your html file:
