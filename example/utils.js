@@ -1,7 +1,7 @@
 'use strict';
 (function () {
 
-  const int = Math.parseInt;
+  const int = v => parseInt(v);
 
   const rndInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
