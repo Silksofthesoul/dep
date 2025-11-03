@@ -1,6 +1,6 @@
 {
   "name": "@silksofthesoul/dep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small utility for isolated import or export in a browser environment.",
   "main": "dep.js",
   "directories": {
