@@ -1,0 +1,26 @@
+{
+  "name": "dep",
+  "version": "0.0.0",
+  "description": "A small utility for isolated import or export in a browser environment.",
+  "main": "dep.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silksofthesoul/dep.git"
+  },
+  "keywords": [
+    "dependency",
+    "import",
+    "export",
+    "browser"
+  ],
+  "author": "Labuzov Evgeny <silksofthesoul@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silksofthesoul/dep/issues"
+  },
+  "homepage": "https://github.com/Silksofthesoul/dep#readme"
+}
