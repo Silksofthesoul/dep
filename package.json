@@ -1,12 +1,12 @@
 {
   "name": "dep",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A small utility for isolated import or export in a browser environment.",
   "main": "dep.js",
   "directories": {
     "example": "example"
   },
-  "scripts": { },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Silksofthesoul/dep.git"
